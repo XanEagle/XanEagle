@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XanEagle
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Html/Css
+- 👋 Hi, I’m Xander
+- 👀 Frontend developer 
+- 🌱 Building projects in Html/CSS/JavaScript 
 - 📫 How to reach me > sopuruchialexander@gmail.com
